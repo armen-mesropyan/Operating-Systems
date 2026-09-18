@@ -1,7 +1,8 @@
-assignement1
-assignement2
-assignement3
-assignement4
-assignement5
+Homework1/assignement1
+Homework1/assignement2
+Homework1/assignement3
+Homework1/assignement4
+Homework1/assignement5
 *.o
-*.dSYM.DS_Store
+*.dSYM
+.DS_Store
