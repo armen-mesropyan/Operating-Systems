@@ -1,0 +1,9 @@
+1. This is the main function of the program.
+2. Variables are initialized in the main block.
+3. Helper functions are defined below.
+4. The main idea is to simplify the code.
+5. This line does not contain the keyword.
+6. Another line with main present again.
+7. Random text with no important words.
+8. Main logic should be carefully handled.
+9. End of the text file with main once more.
