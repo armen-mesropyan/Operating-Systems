@@ -4,4 +4,4 @@ assignement3
 assignement4
 assignement5
 *.o
-*.dSYM
+*.dSYM.DS_Store
