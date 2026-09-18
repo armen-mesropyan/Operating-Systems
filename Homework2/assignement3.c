@@ -22,7 +22,7 @@ int main()
     {
         waitpid(pid, NULL, 0);
         printf("Parent process done\n");
-    }
+    }  
 
     return 0;
 }
